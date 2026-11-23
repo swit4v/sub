@@ -1,5 +1,5 @@
 # profile-title: 🔌 SWIT4 💎
-#announce: base64: 4p2E77iPINCi0LXQu9C10LPRgNCw0Lwg0LrQsNC90LDQuzogQFBpek1vZCDim4QK8J+OhNCQ0LLRgtC+0L7QsdC90L7QstC70LXQvdC40LUg0LrQsNC20LTRi9C1IDYg0YfQsNGB0L7QsvCfp4o=
+#announce: base64: #announce: base64: 8J+UjPCflIwgU3dpdDQgLSDRgNCw0YHQv9Cw0YHRgtCw0L3QuNGPINC00LvRjyDQtNC10L3RjCDQuNC90L7QstC10YDQvdC+0LLRi9C1Lg==
 #profile-web-page-url: t.me/
 #support-url: t.me/
 #profile-update-interval: 6
